@@ -1,6 +1,6 @@
 
 
-## General info
+## General info 	https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white
 * This project is a short OOP sketch to detect short and long pressed button states. 
 * One LED is connected to short press and another to long press
 
