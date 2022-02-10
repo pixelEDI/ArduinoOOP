@@ -1,6 +1,7 @@
 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-## General info 	https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white
+## General info 
 * This project is a short OOP sketch to detect short and long pressed button states. 
 * One LED is connected to short press and another to long press
 
