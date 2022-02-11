@@ -11,7 +11,7 @@
  |_|                                    
                              
 www.pixeledi.eu | twitter.com/pixeledi
-Short/Long Click - One Button - 2 LEDs | V1.0 | 09.09.2021
+Short/Long Click - One Button - 2 LEDs | V1.0 | 02/2022
 
 */
 
